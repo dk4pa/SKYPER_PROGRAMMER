@@ -1,4 +1,4 @@
-update=Wed 29 Nov 2017 03:00:45 PM CET
+update=Mon 30 Apr 2018 12:40:43 PM CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -38,37 +38,3 @@ LabSize=60
 [eeschema]
 version=1
 LibDir=
-[eeschema/libraries]
-LibName1=Skyper_Programmer-rescue
-LibName2=power
-LibName3=device
-LibName4=switches
-LibName5=relays
-LibName6=transistors
-LibName7=conn
-LibName8=linear
-LibName9=regul
-LibName10=74xx
-LibName11=cmos4000
-LibName12=adc-dac
-LibName13=memory
-LibName14=xilinx
-LibName15=microcontrollers
-LibName16=dsp
-LibName17=microchip
-LibName18=analog_switches
-LibName19=motorola
-LibName20=texas
-LibName21=intel
-LibName22=audio
-LibName23=interface
-LibName24=digital-audio
-LibName25=philips
-LibName26=display
-LibName27=cypress
-LibName28=siliconi
-LibName29=opto
-LibName30=atmel
-LibName31=contrib
-LibName32=valves
-LibName33=3v0_pwr
