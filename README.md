@@ -10,7 +10,7 @@ Programmer PCB for Skyper Pager e.g. NEC21A
 First THT version produced with Kicad 
 
 ### v0.2
-SMD Version to be mounted inside a RS-232 Plug case and powered by USB cable.
+SMD Version to be mounted inside a RS-232 Plug case and powered by USB cable. There is a [Mouser Cart]( https://www.mouser.com/ProjectManager/ProjectDetail.aspx?AccessID=938ca9dcb5) for the parts except the 2.54mm pins and Sub-D 9 connector.
 
 ## License
 
