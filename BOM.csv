@@ -1,0 +1,19 @@
+Refs,Value,Footprint,QTY,MFR,MPN,SPR,SPN
+C1,10u,Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow,1,AVX,F931C106KAA,Mouser,647-F931C106KAA
+C2;C3;C5;C4,1u,Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow,4,AVX,F931C105MAA,Mouser,647-F931C105MAA
+J1,Pager,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,1,,,,
+J2,USB PWR,Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical,1,,,,
+U1,TC1055,Package_TO_SOT_SMD:SOT-23-5,1,https://www.mouser.de/datasheet/2/268/21350c-61546.pdf,TC1055-3.0VCT713,Mouser,579-TC1055-3.0VCT713
+R3;R1;R4,10k,Resistors_SMD:R_0402,3,Panasonic,ERJ-PA2F1002X,Mouser,667-ERJ-PA2F1002X
+R2,47k,Resistors_SMD:R_0402,1,Panasonic,ERJ-PA2F4702X,Mouser,667-ERJ-PA2F4702X
+IC1,MAX232,SMD_Packages:SO-16-N,1,Maxim Integrated,MAX232ESE+,Mouser,700-MAX232ESE
+J3,Pin1,SubD_Connector:SubD Pad,1,,,,
+J5,Pin2,SubD_Connector:SubD Pad,1,,,,
+J7,Pin3,SubD_Connector:SubD Pad,1,,,,
+J9,Pin4,SubD_Connector:SubD Pad,1,,,,
+J11,Pin5,SubD_Connector:SubD Pad,1,,,,
+J4,Pin6,SubD_Connector:SubD Pad,1,,,,
+J6,Pin7,SubD_Connector:SubD Pad,1,,,,
+J8,Pin8,SubD_Connector:SubD Pad,1,,,,
+J10,Pin9,SubD_Connector:SubD Pad,1,,,,
+T1;T2,BC847,TO_SOT_Packages_SMD:SOT-323_SC-70,2,ON Semiconductor,SBC847AWT1G,Mouser,863-SBC847AWT1G
