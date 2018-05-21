@@ -4,10 +4,12 @@ Programmer PCB for Skyper Pager e.g. NEC21A
 ![PCB](https://github.com/phl0/SKYPER_PROGRAMMER/blob/SMD/Skyper_Programmer.png)
 
 ## Version
-v0.1
+
+### v0.1
+
 First THT version produced with Kicad 
 
-v0.2
+### v0.2
 SMD Version to be mounted inside a RS-232 Plug case and powered by USB cable.
 
 ## License
