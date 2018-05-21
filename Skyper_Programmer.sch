@@ -6,7 +6,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "NEC Pager Programmer"
-Date "2018-04-30"
+Date "2018-05-21"
 Rev "v0.2"
 Comp "J. Putzger, DF2ET, DK4PA"
 Comment1 "Ersteller: Putzger"

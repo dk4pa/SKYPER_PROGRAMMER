@@ -11,9 +11,9 @@
 
   (page A4)
   (title_block
-    (title "NEC Pager Programmer")
-    (date 2017-11-30)
-    (rev v1.0)
+    (title SKYPER_PROGRAMMER)
+    (date 2018-05-21)
+    (rev v0.2)
     (company "J. Putzger, DF2ET, DK4PA")
   )
 
