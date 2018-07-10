@@ -1,4 +1,4 @@
-update=Mon 21 May 2018 11:00:51 AM CEST
+update=Di 10 Jul 2018 21:19:00 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -31,7 +31,7 @@ LibDir=
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=/opt/SKYPER_PROGRAMMER/
+PlotDirectoryName=./
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
