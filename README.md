@@ -1,7 +1,7 @@
 # SKYPER_PROGRAMMER
 Programmer PCB for Skyper Pager e.g. NEC21A
 
-![PCB](https://github.com/phl0/SKYPER_PROGRAMMER/blob/SMD/Skyper_Programmer.png)
+![PCB](https://github.com/dk4pa/SKYPER_PROGRAMMER/blob/master/Skyper_Programmer.png)
 
 ## Version
 
