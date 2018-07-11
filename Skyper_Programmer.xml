@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/opt/SKYPER_PROGRAMMER/Skyper_Programmer.sch</source>
+    <date>Mo 21 Mai 2018 11:45:17 CEST</date>
+    <tool>Eeschema 5.0.0-rc2-dev-unknown-8f6ae70~65~ubuntu18.04.1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>NEC Pager Programmer</title>
+        <company>J. Putzger, DF2ET, DK4PA</company>
+        <rev>v0.2</rev>
+        <date>2018-05-21</date>
+        <source>Skyper_Programmer.sch</source>
+        <comment number="1" value="Ersteller: Putzger"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="T1">
+      <value>BC847</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/308/BC846AWT1-D-103558.pdf</datasheet>
+      <fields>
+        <field name="MFR">ON Semiconductor</field>
+        <field name="MPN">SBC847AWT1G</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">863-SBC847AWT1G</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC847"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A194F28</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0402</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/315/AOA0000C331-1141874.pdf</datasheet>
+      <fields>
+        <field name="MFR">Panasonic</field>
+        <field name="MPN">ERJ-PA2F1002X</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">667-ERJ-PA2F1002X</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A194FF5</tstamp>
+    </comp>
+    <comp ref="T2">
+      <value>BC847</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-323_SC-70</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/308/BC846AWT1-D-103558.pdf</datasheet>
+      <fields>
+        <field name="MFR">ON Semiconductor</field>
+        <field name="MPN">SBC847AWT1G</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">863-SBC847AWT1G</field>
+      </fields>
+      <libsource lib="Transistor_BJT" part="BC847"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A19529C</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>1u</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/40/f93-776559.pdf</datasheet>
+      <fields>
+        <field name="MFR">AVX</field>
+        <field name="MPN">F931C105MAA</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">647-F931C105MAA</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1955B7</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>1u</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/40/f93-776559.pdf</datasheet>
+      <fields>
+        <field name="MFR">AVX</field>
+        <field name="MPN">F931C105MAA</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">647-F931C105MAA</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A19562A</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>1u</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/40/f93-776559.pdf</datasheet>
+      <fields>
+        <field name="MFR">AVX</field>
+        <field name="MPN">F931C105MAA</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">647-F931C105MAA</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A1959DA</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>1u</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/40/f93-776559.pdf</datasheet>
+      <fields>
+        <field name="MFR">AVX</field>
+        <field name="MPN">F931C105MAA</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">647-F931C105MAA</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A195A4D</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0402</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/315/AOA0000C331-1141874.pdf</datasheet>
+      <fields>
+        <field name="MFR">Panasonic</field>
+        <field name="MPN">ERJ-PA2F1002X</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">667-ERJ-PA2F1002X</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A196819</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>47k</value>
+      <footprint>Resistors_SMD:R_0402</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/315/AOA0000C331-1141874.pdf</datasheet>
+      <fields>
+        <field name="MFR">Panasonic</field>
+        <field name="MPN">ERJ-PA2F4702X</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">667-ERJ-PA2F4702X</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A196C7C</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistors_SMD:R_0402</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/315/AOA0000C331-1141874.pdf</datasheet>
+      <fields>
+        <field name="MFR">Panasonic</field>
+        <field name="MPN">ERJ-PA2F1002X</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">667-ERJ-PA2F1002X</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A196F93</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>Capacitors_Tantalum_SMD:CP_Tantalum_Case-A_EIA-3216-18_Reflow</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/40/f93-776559.pdf</datasheet>
+      <fields>
+        <field name="MFR">AVX</field>
+        <field name="MPN">F931C106KAA</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">647-F931C106KAA</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="CP"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A19746E</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>MAX232</value>
+      <footprint>SMD_Packages:SO-16-N</footprint>
+      <datasheet>https://www.mouser.de/datasheet/2/256/MAX220-MAX249-1307854.pdf</datasheet>
+      <fields>
+        <field name="MFR">Maxim Integrated</field>
+        <field name="MPN">MAX232ESE+</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">700-MAX232ESE</field>
+      </fields>
+      <libsource lib="Skyper_Programmer-rescue" part="MAX232-RESCUE-Skyper_Programmer"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5A194CC6</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>TC1055</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf</datasheet>
+      <fields>
+        <field name="MFR">https://www.mouser.de/datasheet/2/268/21350c-61546.pdf</field>
+        <field name="MPN">TC1055-3.0VCT713</field>
+        <field name="SPR">Mouser</field>
+        <field name="SPN">579-TC1055-3.0VCT713</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="TC1055"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5AE7A74F</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Pin2</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020D04</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Pin6</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020D86</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>Pin1</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020DD6</tstamp>
+    </comp>
+    <comp ref="J6">
+      <value>Pin7</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020E12</tstamp>
+    </comp>
+    <comp ref="J7">
+      <value>Pin3</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020E50</tstamp>
+    </comp>
+    <comp ref="J8">
+      <value>Pin8</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020E90</tstamp>
+    </comp>
+    <comp ref="J9">
+      <value>Pin4</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020ED6</tstamp>
+    </comp>
+    <comp ref="J10">
+      <value>Pin9</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020F1E</tstamp>
+    </comp>
+    <comp ref="J11">
+      <value>Pin5</value>
+      <footprint>SubD_Connector:SubD Pad</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x01"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B020F7E</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Pager</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x04"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B0317B1</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>USB PWR</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
+      <fields/>
+      <libsource lib="Connector_Generic" part="Conn_01x02"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5B031B53</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x01">
+      <description>Generic connector, single row, 01x01, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x02">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="TC1054">
+      <aliases>
+        <alias>TC1055</alias>
+        <alias>TC1186</alias>
+      </aliases>
+      <description>50mA Low Dropout Regulator with ERROR output in 5-Pin SOT-23 package</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/21350E.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TC1054</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Vin" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="~SHDN" type="input"/>
+        <pin num="4" name="~ERROR" type="openCol"/>
+        <pin num="5" name="Vout" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Skyper_Programmer-rescue" part="CP">
+      <footprints>
+        <fp>CP*</fp>
+        <fp>Elko*</fp>
+        <fp>TantalC*</fp>
+        <fp>C*elec</fp>
+        <fp>c_elec*</fp>
+        <fp>SMD*_Pol</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Skyper_Programmer-rescue" part="MAX232-RESCUE-Skyper_Programmer">
+      <footprints>
+        <fp>SOIC*Pitch1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*Pitch0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX232-RESCUE-Skyper_Programmer</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C1+" type="passive"/>
+        <pin num="2" name="VS+" type="power_out"/>
+        <pin num="3" name="C1-" type="passive"/>
+        <pin num="4" name="C2+" type="passive"/>
+        <pin num="5" name="C2-" type="passive"/>
+        <pin num="6" name="VS-" type="power_out"/>
+        <pin num="7" name="T2OUT" type="output"/>
+        <pin num="8" name="R2IN" type="input"/>
+        <pin num="9" name="R2OUT" type="output"/>
+        <pin num="10" name="T2IN" type="input"/>
+        <pin num="11" name="T1IN" type="input"/>
+        <pin num="12" name="R1OUT" type="output"/>
+        <pin num="13" name="R1IN" type="input"/>
+        <pin num="14" name="T1OUT" type="output"/>
+        <pin num="15" name="GND" type="power_in"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Skyper_Programmer-rescue" part="R">
+      <footprints>
+        <fp>R_*</fp>
+        <fp>Resistor_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_BJT" part="BC817">
+      <aliases>
+        <alias>BC818</alias>
+        <alias>BC847</alias>
+        <alias>BC848</alias>
+        <alias>BC849</alias>
+        <alias>BC850</alias>
+        <alias>MMBT3904</alias>
+        <alias>MMBT5550L</alias>
+        <alias>MMBT5551L</alias>
+      </aliases>
+      <description>0.8A Ic, 45V Vce, NPN Transistor, SOT-23</description>
+      <docs>http://www.fairchildsemi.com/ds/BC/BC817.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">BC817</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="B" type="input"/>
+        <pin num="2" name="E" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>/usr/share/kicad/library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>/usr/share/kicad/library/Regulator_Linear.lib</uri>
+    </library>
+    <library logical="Skyper_Programmer-rescue">
+      <uri>/opt/SKYPER_PROGRAMMER/Skyper_Programmer-rescue.lib</uri>
+    </library>
+    <library logical="Transistor_BJT">
+      <uri>/usr/share/kicad/library/Transistor_BJT.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(IC1-Pad12)">
+      <node ref="IC1" pin="12"/>
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="2" name="Net-(IC1-Pad13)">
+      <node ref="J7" pin="1"/>
+      <node ref="IC1" pin="13"/>
+    </net>
+    <net code="3" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1"/>
+      <node ref="J8" pin="1"/>
+    </net>
+    <net code="4" name="Net-(IC1-Pad14)">
+      <node ref="IC1" pin="14"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="5" name="Net-(IC1-Pad11)">
+      <node ref="R4" pin="1"/>
+      <node ref="T2" pin="3"/>
+      <node ref="IC1" pin="11"/>
+    </net>
+    <net code="6" name="Net-(J9-Pad1)">
+      <node ref="J9" pin="1"/>
+    </net>
+    <net code="7" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1"/>
+    </net>
+    <net code="8" name="Net-(J1-Pad2)">
+      <node ref="T2" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="9" name="Net-(J1-Pad3)">
+      <node ref="R1" pin="1"/>
+      <node ref="J1" pin="3"/>
+      <node ref="T1" pin="3"/>
+    </net>
+    <net code="10" name="+5V">
+      <node ref="U1" pin="3"/>
+      <node ref="IC1" pin="16"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U1" pin="1"/>
+      <node ref="C5" pin="2"/>
+      <node ref="J2" pin="1"/>
+    </net>
+    <net code="11" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2"/>
+      <node ref="IC1" pin="6"/>
+    </net>
+    <net code="12" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="13" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2"/>
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="14" name="Net-(C2-Pad1)">
+      <node ref="IC1" pin="1"/>
+      <node ref="C2" pin="1"/>
+    </net>
+    <net code="15" name="Net-(C3-Pad2)">
+      <node ref="IC1" pin="5"/>
+      <node ref="C3" pin="2"/>
+    </net>
+    <net code="16" name="Net-(C3-Pad1)">
+      <node ref="IC1" pin="4"/>
+      <node ref="C3" pin="1"/>
+    </net>
+    <net code="17" name="+3V0">
+      <node ref="J1" pin="4"/>
+      <node ref="U1" pin="5"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="18" name="GND">
+      <node ref="U1" pin="2"/>
+      <node ref="J2" pin="2"/>
+      <node ref="J1" pin="1"/>
+      <node ref="J11" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="IC1" pin="15"/>
+      <node ref="C4" pin="1"/>
+      <node ref="T2" pin="2"/>
+      <node ref="T1" pin="2"/>
+    </net>
+    <net code="19" name="Net-(U1-Pad4)">
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="20" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="21" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="22" name="Net-(IC1-Pad7)">
+      <node ref="IC1" pin="7"/>
+    </net>
+    <net code="23" name="Net-(IC1-Pad8)">
+      <node ref="IC1" pin="8"/>
+    </net>
+    <net code="24" name="Net-(IC1-Pad10)">
+      <node ref="IC1" pin="10"/>
+    </net>
+    <net code="25" name="Net-(IC1-Pad9)">
+      <node ref="IC1" pin="9"/>
+    </net>
+    <net code="26" name="Net-(R3-Pad2)">
+      <node ref="T1" pin="1"/>
+      <node ref="R3" pin="2"/>
+    </net>
+  </nets>
+</export>

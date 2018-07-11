@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Skyper_Programmer-rescue)(type Legacy)(uri ${KIPRJMOD}/Skyper_Programmer-rescue.lib)(options "")(descr ""))
+  (lib (name 74xx)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/74xx.lib)(options "")(descr ""))
+  (lib (name 3v0_pwr)(type Legacy)(uri ${KIPRJMOD}/3v0_pwr.lib)(options "")(descr ""))
+)
