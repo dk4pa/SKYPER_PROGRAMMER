@@ -3,6 +3,12 @@ Programmer PCB for Skyper Pager e.g. NEC21A
 
 ![PCB](https://github.com/dk4pa/SKYPER_PROGRAMMER/blob/master/Skyper_Programmer.png)
 
+# Connection to Pager
+
+The connection to the pager is realized by 4 wires (GND, RX, TX, EN). These need to be connected as outlined in the picture.
+
+![Connection](https://github.com/phl0/SKYPER_PROGRAMMER/blob/master/connection.jpg)
+
 ## Version
 
 ### v0.1
